@@ -1,7 +1,12 @@
 {
   "packs": [
-    "pack.json",
-    "brodie.json"
+    "cats.json",
+    "dogs.json",
+    "greenfrogs.json",
+    "misc.json",
+    "tech.json",
+    "weebs.json",
+    "wojaks.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
