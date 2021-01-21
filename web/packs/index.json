@@ -6,7 +6,8 @@
     "misc.json",
     "tech.json",
     "weebs.json",
-    "wojaks.json"
+    "wojaks.json",
+    "india.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
